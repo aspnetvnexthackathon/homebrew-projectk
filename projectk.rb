@@ -2,7 +2,7 @@ require "formula"
 
 class Projectk < Formula
   homepage "https://www.github.com/aspnet/Home"
-  version "1.0.0-alpha3-10163"
+  version "1.0.0-alpha3-10165"
   url "https://www.myget.org/F/aspnetvnext/api/v2/package/KRE-mono45-x86/1.0.0-alpha3-10165"
   sha1 "e1852585c9457fc1464913796fc2eebbd9f4e8c9"
 
